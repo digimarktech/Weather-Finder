@@ -12,6 +12,7 @@
 		BDD109311C23997D0076C2AF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD1092F1C23997D0076C2AF /* Main.storyboard */; };
 		BDD109331C23997D0076C2AF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BDD109321C23997D0076C2AF /* Assets.xcassets */; };
 		BDD109361C23997D0076C2AF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BDD109341C23997D0076C2AF /* LaunchScreen.storyboard */; };
+		BDD1093E1C239BF60076C2AF /* background.jpg in Resources */ = {isa = PBXBuildFile; fileRef = BDD1093D1C239BF60076C2AF /* background.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		BDD109321C23997D0076C2AF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BDD109351C23997D0076C2AF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BDD109371C23997D0076C2AF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BDD1093D1C239BF60076C2AF /* background.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = background.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		BDD1092A1C23997D0076C2AF /* Weather Finder */ = {
 			isa = PBXGroup;
 			children = (
+				BDD1093D1C239BF60076C2AF /* background.jpg */,
 				BDD1092B1C23997D0076C2AF /* AppDelegate.swift */,
 				BDD1092D1C23997D0076C2AF /* ViewController.swift */,
 				BDD1092F1C23997D0076C2AF /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BDD109361C23997D0076C2AF /* LaunchScreen.storyboard in Resources */,
+				BDD1093E1C239BF60076C2AF /* background.jpg in Resources */,
 				BDD109331C23997D0076C2AF /* Assets.xcassets in Resources */,
 				BDD109311C23997D0076C2AF /* Main.storyboard in Resources */,
 			);
